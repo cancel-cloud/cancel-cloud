@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cancel-cloud&label=Profile%20views&color=ff0000&style=plastic" alt="cancel-cloud" /> </p>
+
 It's me! Cancelcloud.
 
 I love Kotlin, yes. Also like nearly everyone I want to do more stuff than I have time left.
