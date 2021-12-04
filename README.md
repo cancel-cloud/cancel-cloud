@@ -8,7 +8,7 @@ I love Kotlin, yes. Also like nearly everyone I want to do more stuff than I hav
 PorstgreSQL is best!
 
 
-If you want to contact me, the fastest way is via Discord ([Cancelcloud#3366](https://discordapp.com/users/624764912153133076/))
+If you want to contact me, the fastest way is via Discord ([Cancelcloud#6331](https://discordapp.com/users/624764912153133076/))
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cancel-cloud&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cancel-cloud&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
