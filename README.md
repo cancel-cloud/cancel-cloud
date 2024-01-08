@@ -1,16 +1,28 @@
-### Hi there 👋
+Hi 👋 My name is Lukas
+======================
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cancel-cloud&label=Profile%20views&color=ff0000&style=plastic" alt="cancel-cloud" /> </p>
+Developer for various things
+----------------------------
+I am Lukas, a 17-year-old high school student specializing in practical computer science, living near Frankfurt, Germany. My interests include motorbikes, coding, and coffee, and I am currently focused on successfully completing the 11th grade. My long-term goals are to master iOS development / backend development and achieve financial independence.
 
-It's me! Cancelcloud.
+* 🌍  I'm based in Germany
+* 🖥️  See my portfolio at [DevBrew](http:///github.com/DevBrew-dev/lukas/portfolio)
+* ✉️  You can contact me at [lukas@devbrew.dev](mailto:lukas@devbrew.dev)
+* 🚀  I'm currently working on [DevBrew](http://devbrew.dev)
+* 🧠  I'm learning IOS & Web development
+* ⚡  I ❤️ Coffee ☕️
 
-I love Kotlin, yes. Also like nearly everyone I want to do more stuff than I have time left.
-PostgreSQL is best!
+### Skills  
 
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a> </p>
 
-If you want to contact me, the fastest way is via Discord ([Cancelcloud#6331](https://discordapp.com/users/624764912153133076/))
+### Socials  <p align="left"> <a href="https://www.dev.to/cancelthecloud" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://discord.com/users/cancelcloud" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/cancel-cloud" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/lukas-dienst/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/20276153/cancelcloud" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/cancelcloud" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.twitch.tv/cancelthecloud" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges 
+<a href="https://github.com/cancel-cloud" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cancel-cloud&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+</a>
 
 [![@Cancelcloud's Holopin board](https://holopin.me/Cancelcloud)](https://holopin.io/@Cancelcloud)
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cancel-cloud&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)\
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cancel-cloud&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### Support Me
+<a href="https://www.ko-fi.com/cancelcloud"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
